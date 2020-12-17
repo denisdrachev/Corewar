@@ -1,0 +1,15 @@
+.vscode
+*.dSYM
+*.swp
+*.swo
+*.o
+*.swm
+*.swm
+*.diff
+corewar
+asm
+tmp*
+.DS_Store
+*.a
+disassemble
+*.a
